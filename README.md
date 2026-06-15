@@ -4,7 +4,18 @@ I build local-first AI tooling: Electron apps, MCP servers, semantic search, bro
 
 Most of my work sits in the gap between "LLM chat" and "usable system": terminal orchestration, desktop AI shells, Telegram/Reddit/browser parsing, documentation routing, and note systems that can feed all of that back into an agent.
 
-## Core Projects
+## Building A Local AI Stack
+
+These repositories are not random side projects. They fit together into one local AI workflow:
+
+- [custom-terminal](https://github.com/RevinFedor/custom-terminal) — terminal orchestration for Claude/Codex sessions
+- [ai-mac-electron](https://github.com/RevinFedor/ai-mac-electron) — desktop AI chat + voice shell
+- [sc-desktop](https://github.com/RevinFedor/sc-desktop) — Telegram / Reddit / browser parsing + MCP data layer
+- [gt-editor](https://github.com/RevinFedor/gt-editor) — notes and markdown workspace
+- [docs_search_mcp](https://github.com/RevinFedor/docs_search_mcp) — semantic documentation router
+- [main-ios-app](https://github.com/RevinFedor/main-ios-app) — mobile control surface for the whole stack
+
+## Selected Repositories
 
 - [custom-terminal](https://github.com/RevinFedor/custom-terminal) — orchestration layer for Claude/Codex tabs with transcript parsing, timeline/history, cross-session access, PTY control, and deterministic mobile sync.
 - [ai-mac-electron](https://github.com/RevinFedor/ai-mac-electron) — Mac-side desktop AI app with voice dictation, overlay chat, prompt library, MCP integrations, and iPhone control APIs.
