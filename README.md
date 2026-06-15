@@ -1,6 +1,6 @@
-# Hi there, I'm Fedor
+# Local-First AI Tooling
 
-I build local-first AI tooling: Electron apps, MCP servers, semantic search, browser automation, and orchestration layers around real agent workflows.
+I build Electron apps, MCP servers, semantic search, browser automation, and orchestration layers around real agent workflows.
 
 Most of my work sits in the gap between "LLM chat" and "usable system": terminal orchestration, desktop AI shells, Telegram/Reddit/browser parsing, documentation routing, and note systems that can feed all of that back into an agent.
 
